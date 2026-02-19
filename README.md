@@ -2,12 +2,6 @@
 
 Proyek machine learning untuk klasifikasi gambar menggunakan dataset CIFAR-10. Proyek ini mengimplementasikan neural network dengan TensorFlow/Keras untuk mengklasifikasikan 10 kategori objek.
 
-## Informasi Proyek
-
-- **Nama:** Alridho Tristan Satriawan
-- **Email:** alridho.tristan@gmail.com
-- **Tanggal:** 2026
-
 ## Deskripsi
 
 Proyek ini menggunakan dataset CIFAR-10 yang berisi 60.000 gambar RGB berwarna berukuran 32x32 piksel dalam 10 kategori:
